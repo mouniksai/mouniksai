@@ -8,11 +8,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounik-sai)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashiqedavalapati58@gmail.com)
-[![LeetCode](https://img.shields.io/badge/600%2B_SOLVED-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mounik_sai)
+[![LeetCode](https://img.shields.io/badge/300%2B_SOLVED-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mounik_sai)
 
 ```yaml
 🎓 CSE @ Amrita Vishwa Vidyapeetham | CGPA: 9.22/10 (Top 10 of 700)
-💻 Cloud Specialist | AI/ML Engineer | 600+ LeetCode Problems Solved
+💻 Cloud Specialist | AI/ML Engineer | 300+ LeetCode Problems Solved
 🚀 Passionate about scalable systems, deep learning, and elegant solutions
 ```
 
@@ -252,7 +252,7 @@ Triple-auth security • Homomorphic encryption • Smart contracts • Immutabl
 <br>
 
 <a href="https://leetcode.com/u/mounik_sai">
-    <img src="https://img.shields.io/badge/600%2B_PROBLEMS-SOLVED-brightgreen?style=for-the-badge&logo=leetcode&logoColor=yellow&labelColor=black" alt="Problems Solved"/>
+    <img src="https://img.shields.io/badge/300%2B_PROBLEMS-SOLVED-brightgreen?style=for-the-badge&logo=leetcode&logoColor=yellow&labelColor=black" alt="Problems Solved"/>
 </a>
 
 </div>
