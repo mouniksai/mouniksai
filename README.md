@@ -4,35 +4,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%E2%9A%A1+CLOUD+ARCHITECT+%7C+AI%2FML+ENGINEER+%E2%9A%A1;%F0%9F%94%A5+PROBLEM+SOLVER+%7C+SYSTEM+DESIGNER+%F0%9F%94%A5" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" height="180">
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounik-sai)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashiqedavalapati58@gmail.com)
-[![LeetCode](https://img.shields.io/badge/300%2B_SOLVED-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mounik_sai)
+[![LeetCode](https://img.shields.io/badge/600%2B_SOLVED-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mounik_sai)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b59-42c6-8e42-af3cfe3f32f0.gif" width="900">
-
-</div>
-
-## 🎯 ABOUT ME
-
-```typescript
-const mounikSai = {
-    education: "CSE @ Amrita Vishwa Vidyapeetham 🎓",
-    cgpa: "9.23/10 — Top 10 of 700 students 🏆",
-    location: "Coimbatore, India 📍",
-    expertise: {
-        cloudArchitecture: ["GCP", "AWS", "Microservices", "DevOps"],
-        aiMachineLearning: ["Deep RL", "TensorFlow", "Ray RLlib", "Scikit-learn"],
-        systemDesign: ["Distributed Systems", "REST APIs", "Event-Driven"],
-        problemSolving: "300+ LeetCode | DSA Expert 💻"
-    },
-    passion: "Building scalable production systems that matter 🚀"
-};
+```yaml
+🎓 CSE @ Amrita Vishwa Vidyapeetham | CGPA: 9.22/10 (Top 10 of 700)
+💻 Cloud Specialist | AI/ML Engineer | 600+ LeetCode Problems Solved
+🚀 Passionate about scalable systems, deep learning, and elegant solutions
 ```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37300f8381a.gif" width="400">
 </div>
 
 ---
@@ -213,13 +196,15 @@ const mounikSai = {
         <br>MATLAB
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+        <br>Kafka
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
         <br>Solidity
     </td>
 </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b59-42c6-8e42-af3cfe3f32f0.gif" width="900">
 
 </div>
 
@@ -231,38 +216,24 @@ const mounikSai = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 [VeriVote](https://github.com/mouniksai/vote-guard)
-**Blockchain-Powered Secure Voting**
+**Blockchain Voting Platform**
 
-```yaml
-Stack: Solidity | Next.js | WebAuthn | Express
-      PostgreSQL | MongoDB | Cryptography
-```
+`Solidity` `Next.js` `WebAuthn` `PostgreSQL` `MongoDB`
 
-**🎯 Innovation Highlights:**
-- 🛡️ Triple-layered auth: Face liveness + WebAuthn + Dual OTP
-- 🔒 Homomorphic encryption for privacy-preserving vote counting
-- ⛓️ Immutable smart contracts ensure "one-person-one-vote"
-- 📊 Mathematical audit tools verify blockchain integrity
+Triple-auth security • Homomorphic encryption • Smart contracts • Immutable audit trails
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚦 [Traffic RL Optimizer](https://github.com/23CSE362-edge-computing-2025-26-odd/capstone-project-08_lazysquirrels)
-**AI-Driven Traffic Management**
+### 🚦 [Traffic RL System](https://github.com/23CSE362-edge-computing-2025-26-odd/capstone-project-08_lazysquirrels)
+**AI Traffic Optimization**
 
-```yaml
-Stack: Python | Ray RLlib | SUMO
-      Deep RL | Computer Vision
-```
+`Python` `Ray RLlib` `SUMO` `Deep RL`
 
-**🎯 Performance Gains:**
-- ⚡ 25% throughput improvement via RL optimization
-- ⏱️ 18% reduction in average wait times
-- 🤖 Automated scenario generation & validation
-- 🧠 Deep Q-learning for adaptive signal timing
+25% throughput boost • 18% wait reduction • Automated validation • Adaptive signals
 
 </td>
 </tr>
@@ -272,100 +243,35 @@ Stack: Python | Ray RLlib | SUMO
 
 ---
 
-## 📊 LEETCODE MASTERY
+## 📊 LEETCODE STATS
 
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/mounik_sai?theme=dark&font=Ubuntu&ext=contest&animation=true" alt="LeetCode Stats"/>
 
-<br><br>
+<br>
 
 <a href="https://leetcode.com/u/mounik_sai">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=SOLVED&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmounik_sai&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
-</a>
-<a href="https://leetcode.com/u/mounik_sai">
-    <img src="https://img.shields.io/badge/RANKING-TOP%205%25-brightgreen?style=for-the-badge&labelColor=black" alt="LeetCode Ranking"/>
+    <img src="https://img.shields.io/badge/600%2B_PROBLEMS-SOLVED-brightgreen?style=for-the-badge&logo=leetcode&logoColor=yellow&labelColor=black" alt="Problems Solved"/>
 </a>
 
 </div>
 
 ---
 
-## 🏆 ACHIEVEMENTS & EXPERTISE
-
 <div align="center">
 
-```diff
-+ 🎓 CGPA 9.23/10 — Top 10 among 700 students
-+ 💻 300+ LeetCode problems solved
-+ 🏅 JEE Main 95.76 percentile
-+ 🚀 97.7% in Board of Intermediate Education
-+ ⚡ Strong CS fundamentals: DSA, OS, DBMS, CN, ML
-+ ☁️ Cloud-native architecture & microservices expertise
-+ 🤖 AI/ML production deployment experience
-+ 🔧 DevOps & CI/CD pipeline mastery
-```
-
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-
-</div>
-
----
-
-## 🎯 CORE COMPETENCIES
-
-<div align="center">
-
-| 🧠 DOMAIN | 🛠️ SKILLS |
-|:---:|:---:|
-| **System Design** | Distributed Systems • Microservices • REST APIs |
-| **Cloud Architecture** | GCP • AWS • Docker • Kubernetes • Serverless |
-| **AI/ML Engineering** | Deep RL • Scikit-learn • TensorFlow • Model Deployment |
-| **Backend Development** | Node.js • Express • PostgreSQL • MongoDB • Redis |
-| **Problem Solving** | DSA Expert • Competitive Programming • Algorithm Design |
-| **DevOps** | CI/CD • Docker • Git • Linux • Infrastructure as Code |
-
-</div>
-
----
-
-## 📚 EDUCATION
-
-<div align="center">
-
-### 🎓 B.Tech in Computer Science and Engineering
-**Amrita Vishwa Vidyapeetham, Coimbatore** | 2023-2027
-
-```
-📊 CGPA: 9.23/10 | 🏆 Top 10 of 700 students
-📚 Core: DSA • OS • DBMS • CN • Software Engineering • ML
-```
-
-### 🏫 Board of Intermediate Education, A.P
-**Aakash Institute** | 2021-2023
-
-```
-📊 Score: 97.7% | 🎯 JEE Main: 95.76 percentile
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b59-42c6-8e42-af3cfe3f32f0.gif" width="900">
-
-### 🌟 LET'S BUILD THE FUTURE TOGETHER 🌟
+### 🌟 LET'S CONNECT 🌟
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/mounik-sai)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:aashiqedavalapati58@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=black)](https://leetcode.com/u/mounik_sai)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/mouniksai)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Building%20Scalable%20Systems%20•%20One%20Commit%20at%20a%20Time&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=mouniksai&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+
+**"We are a way for the cosmos to know itself" — Carl Sagan**
 
 </div>
